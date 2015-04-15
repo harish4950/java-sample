@@ -2,3 +2,9 @@ hello
 
 hello
 VVhellohellohellohellohellohello
+
+
+Use the following command separators:
+- ; to execute next command always.
+- && to execute next command only if previous was success.
+- || to execute next command only if previous was failed.
